@@ -21,3 +21,4 @@ Where:
 #cN: First name and last name of the Nth coauthor separated by a blank space
 
 Note that the target author is also present in the list of co-authors.
+We use ;\t as a separator/delimiter to seperate these elements.
