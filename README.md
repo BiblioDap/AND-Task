@@ -1,6 +1,6 @@
 # **First Workshop on Bibliographic Data Analysis and Processing @ KDD 2021**
 
-For more information, visit the workshop page: [bibliodap.uni-koblenz.de](bibliodap.uni-koblenz.de)
+For more information, visit the workshop page: [bibliodap.uni-koblenz.de](https:\\bibliodap.uni-koblenz.de)
 
 # AND-Task
 
