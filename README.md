@@ -1,3 +1,7 @@
+# **First Workshop on Bibliographic Data Analysis and Processing @ KDD 2021**
+
+For more information, visit the workshop page: [bibliodap.uni-koblenz.de](bibliodap.uni-koblenz.de)
+
 # AND-Task
 
 This dataset consists of two parts: Devlopement.csv and Testing.csv.
@@ -22,3 +26,5 @@ Where: \
 
 Note that the target author is also present in the list of co-authors.\
 We use `;\t` as a separator/delimiter to seperate these elements.
+
+
